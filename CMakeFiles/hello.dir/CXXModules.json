@@ -1,0 +1,17 @@
+{
+	"modules" : {},
+	"references" : 
+	{
+		"calc" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/calc.dir/calc.pcm"
+		},
+		"foo" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/foo.dir/foo.pcm"
+		}
+	},
+	"usages" : {}
+}

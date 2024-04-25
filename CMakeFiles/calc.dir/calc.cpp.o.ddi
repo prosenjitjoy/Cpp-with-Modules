@@ -1,0 +1,16 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/calc.dir/calc.cpp.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "calc",
+          "source-path": "/home/prosenjit/hello/calc.cpp"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,19 @@
+{
+	"modules" : 
+	{
+		"calc" : 
+		{
+			"bmi" : "/home/prosenjit/hello/CMakeFiles/calc.dir/calc.pcm",
+			"is-private" : false
+		}
+	},
+	"references" : 
+	{
+		"calc" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/calc.dir/calc.pcm"
+		}
+	},
+	"usages" : {}
+}

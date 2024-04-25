@@ -1,0 +1,16 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/foo.dir/foo.cpp.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "foo",
+          "source-path": "/home/prosenjit/hello/foo.cpp"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

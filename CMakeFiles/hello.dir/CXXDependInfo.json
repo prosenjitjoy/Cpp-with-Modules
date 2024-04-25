@@ -1,0 +1,22 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/prosenjit/hello",
+	"dir-cur-src" : "/home/prosenjit/hello",
+	"dir-top-bld" : "/home/prosenjit/hello",
+	"dir-top-src" : "/home/prosenjit/hello",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : 
+	[
+		"/home/prosenjit/hello/CMakeFiles/foo.dir",
+		"/home/prosenjit/hello/CMakeFiles/calc.dir"
+	],
+	"module-dir" : "/home/prosenjit/hello/CMakeFiles/hello.dir"
+}
