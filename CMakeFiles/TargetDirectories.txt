@@ -1,5 +1,0 @@
-/home/prosenjit/hello/CMakeFiles/foo.dir
-/home/prosenjit/hello/CMakeFiles/calc.dir
-/home/prosenjit/hello/CMakeFiles/hello.dir
-/home/prosenjit/hello/CMakeFiles/edit_cache.dir
-/home/prosenjit/hello/CMakeFiles/rebuild_cache.dir

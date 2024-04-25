@@ -1,4 +1,0 @@
-ninja_dyndep_version = 1.0
-build CMakeFiles/calc.dir/calc.cpp.o | CMakeFiles/calc.dir/calc.pcm: dyndep
-  restat = 1
-
